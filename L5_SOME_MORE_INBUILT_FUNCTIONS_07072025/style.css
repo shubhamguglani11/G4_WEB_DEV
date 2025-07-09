@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+}
+
+#grandparent {
+    background: #e1bee7;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(44, 62, 80, 0.1);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#parent {
+    background: #b39ddb;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+#child {
+    background: #9575cd;
+    height: 80px;
+    border-radius: 8px;
+}
